@@ -18,5 +18,7 @@ public class Runner {
 
         //version 6
         System.out.println("");
+
+        //git commit kisa yol
     }
 }
